@@ -62,6 +62,7 @@ export default {
                 "/cloudlinuxos/command-line_tools/",
                 "/cloudlinuxos/max_webserver/",
                 "/cloudlinuxos/isolates/",
+                "/cloudlinuxos/alt-ea_packages/",
                 "/cloudlinuxos/control_panel_integration/",
                 "/cloudlinuxos/cloudlinux_os_kernel/",
                 "/cloudlinuxos/docker/",
