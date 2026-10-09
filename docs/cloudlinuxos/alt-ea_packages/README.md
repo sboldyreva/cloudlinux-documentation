@@ -27,6 +27,11 @@ Extensions and different versions of ea-php are managed via the [EasyApache 4 in
 
 ## Which operating systems are ea packages designed for?
 
+ea packages are designed for Linux operating systems:
+- CloudLinux (CentOS, AlmaLinux)
+- Ubuntu
+- Debian
+
 ### Which versions of CloudLinux support these packages?
 
 ea-php: CloudLinux 6, 7, 8, 9 (CentOS 6, 7, 8; AlmaLinux 8, 9)
